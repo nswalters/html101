@@ -23,8 +23,21 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  ;
 }
 
 .nav-item a:hover {
   background-color: #111;
+}
+
+.card {
+  border: 3px dotted #333;
+  border-radius: 5px;
+  width: 300px;
+  margin: 10px;
+  float: left;
+}
+
+.card img {
+  width: 300px;
 }
